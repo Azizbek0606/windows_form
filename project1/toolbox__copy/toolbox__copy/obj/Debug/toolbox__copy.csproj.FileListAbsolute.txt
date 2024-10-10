@@ -1,0 +1,10 @@
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\bin\Debug\toolbox__copy.exe.config
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\bin\Debug\toolbox__copy.exe
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\bin\Debug\toolbox__copy.pdb
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\obj\Debug\toolbox__copy.csproj.AssemblyReference.cache
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\obj\Debug\toolbox__copy.Form1.resources
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\obj\Debug\toolbox__copy.Properties.Resources.resources
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\obj\Debug\toolbox__copy.csproj.GenerateResource.cache
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\obj\Debug\toolbox__copy.csproj.CoreCompileInputs.cache
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\obj\Debug\toolbox__copy.exe
+E:\praktikum gitHub\windows_projects\lesson_1\toolbox__copy\toolbox__copy\obj\Debug\toolbox__copy.pdb

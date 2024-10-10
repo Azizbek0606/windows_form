@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\praktikum gitHub\\windows_projects\\lesson_1\\toolbox__copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A5FC87-96C6-4A5F-BBA9-4F62DF4AB304}|toolbox__copy\\toolbox__copy.csproj|e:\\praktikum github\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0A5FC87-96C6-4A5F-BBA9-4F62DF4AB304}|toolbox__copy\\toolbox__copy.csproj|solutionrelative:toolbox__copy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A5FC87-96C6-4A5F-BBA9-4F62DF4AB304}|toolbox__copy\\toolbox__copy.csproj|e:\\praktikum github\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A5FC87-96C6-4A5F-BBA9-4F62DF4AB304}|toolbox__copy\\toolbox__copy.csproj|solutionrelative:toolbox__copy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A5FC87-96C6-4A5F-BBA9-4F62DF4AB304}|toolbox__copy\\toolbox__copy.csproj|e:\\praktikum github\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A5FC87-96C6-4A5F-BBA9-4F62DF4AB304}|toolbox__copy\\toolbox__copy.csproj|solutionrelative:toolbox__copy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\praktikum gitHub\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "toolbox__copy\\Form1.Designer.cs",
+              "ToolTip": "E:\\praktikum gitHub\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\Form1.Designer.cs*",
+              "RelativeToolTip": "toolbox__copy\\Form1.Designer.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:41:23.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\praktikum gitHub\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\Form1.cs",
+              "RelativeDocumentMoniker": "toolbox__copy\\Form1.cs",
+              "ToolTip": "E:\\praktikum gitHub\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\Form1.cs [Design]*",
+              "RelativeToolTip": "toolbox__copy\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:41:21.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\praktikum gitHub\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\Form1.cs",
+              "RelativeDocumentMoniker": "toolbox__copy\\Form1.cs",
+              "ToolTip": "E:\\praktikum gitHub\\windows_projects\\lesson_1\\toolbox__copy\\toolbox__copy\\Form1.cs*",
+              "RelativeToolTip": "toolbox__copy\\Form1.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:06:13.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
