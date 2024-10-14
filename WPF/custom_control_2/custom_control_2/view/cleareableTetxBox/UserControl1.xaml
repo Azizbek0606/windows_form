@@ -5,13 +5,34 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:custom_control_2.view.cleareableTetxBox"
              mc:Ignorable="d" 
-             Height="78" d:DesignWidth="400">
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="290"/>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
-        <TextBox Margin="10"/>
-        <Button Grid.Column="1" Margin="10" Content="X" FontSize="30" />
-    </Grid>
+             d:DesignHeight="40"  d:DesignWidth="250
+             ">
+    <Border CornerRadius="10">
+        <Grid Background="White">
+            <TextBox BorderThickness="0"
+              x:Name="txtInput"
+              VerticalContentAlignment="Center"
+              FontSize="16" FontWeight="Light"
+              Background="Transparent"
+              TextChanged="txtInput_TextChanged"
+              />
+            <TextBlock x:Name="tbPlaceholder"
+                Text="{Binding Placeholder}"
+                FontSize="16"
+                FontWeight="Light"
+                Foreground="DarkGray"
+                VerticalAlignment="Center"
+                Margin="5,0,0,0"
+                Panel.ZIndex="-1"/>
+            <Button Grid.Column="1"
+             Content="X"
+             x:Name="btnClear"
+             Width="30"
+             HorizontalAlignment="Right"
+             Background="Transparent"
+             Foreground="Darkgray"
+             BorderThickness="0"
+             Click="btnClear_Click"/>
+        </Grid>
+    </Border>
 </UserControl>

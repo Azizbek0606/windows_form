@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|e:\\praktikum github\\windows_form\\wpf\\custom_control_2\\custom_control_2\\view\\cleareabletetxbox\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|solutionrelative:custom_control_2\\view\\cleareabletetxbox\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|e:\\praktikum github\\windows_form\\wpf\\custom_control_2\\custom_control_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|solutionrelative:custom_control_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|e:\\praktikum github\\windows_form\\wpf\\custom_control_2\\custom_control_2\\view\\cleareabletetxbox\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|solutionrelative:custom_control_2\\view\\cleareabletetxbox\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|e:\\praktikum github\\windows_form\\wpf\\custom_control_2\\custom_control_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|solutionrelative:custom_control_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|e:\\praktikum github\\windows_form\\wpf\\custom_control_2\\custom_control_2\\view\\cleareabletetxbox\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489B0D6F-08AE-4CEA-B93A-E218627E5F06}|custom_control_2\\custom_control_2.csproj|solutionrelative:custom_control_2\\view\\cleareabletetxbox\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,18 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserControl1.xaml",
-              "DocumentMoniker": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml",
-              "RelativeDocumentMoniker": "custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml",
-              "ToolTip": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml*",
-              "RelativeToolTip": "custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml*",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "custom_control_2\\MainWindow.xaml",
+              "ToolTip": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\MainWindow.xaml*",
+              "RelativeToolTip": "custom_control_2\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-12T07:52:34.488Z",
+              "WhenOpened": "2024-10-14T09:38:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml.cs",
+              "ToolTip": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml.cs",
+              "RelativeToolTip": "custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:26:28.626Z",
               "EditorCaption": ""
             },
             {
@@ -44,7 +61,7 @@
               "RelativeDocumentMoniker": "custom_control_2\\MainWindow.xaml.cs",
               "ToolTip": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\MainWindow.xaml.cs",
               "RelativeToolTip": "custom_control_2\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T07:40:31.072Z",
               "EditorCaption": ""
@@ -57,10 +74,10 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "be341804-8199-404e-afa0-26db8d40f98c",
+        "Id": "c1d45d3c-a346-4cdb-be12-a19207a21916",
         "Display": 0,
-        "X": 605,
-        "Y": -50,
+        "X": 413,
+        "Y": 42,
         "Width": 986,
         "Height": 766,
         "WindowState": 2
@@ -73,13 +90,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "custom_control_2\\MainWindow.xaml",
-              "ToolTip": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\MainWindow.xaml",
-              "RelativeToolTip": "custom_control_2\\MainWindow.xaml",
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml",
+              "ToolTip": "E:\\praktikum gitHub\\windows_form\\WPF\\custom_control_2\\custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml",
+              "RelativeToolTip": "custom_control_2\\view\\cleareableTetxBox\\UserControl1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-12T07:40:31.15Z",
+              "WhenOpened": "2024-10-12T07:52:34.488Z",
               "EditorCaption": ""
             }
           ]

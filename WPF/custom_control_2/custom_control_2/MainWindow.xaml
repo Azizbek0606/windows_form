@@ -7,7 +7,7 @@
         xmlns:cleareableTetxBox="clr-namespace:custom_control_2.view.cleareableTetxBox"
         mc:Ignorable="d"
         Title="MainWindow" Height="400" Width="400">
-    <Grid>
+    <Grid Background="DarkSeaGreen">
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition/>
@@ -15,10 +15,10 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <cleareableTetxBox:UserControl1/>
-        <cleareableTetxBox:UserControl1 Grid.Row="1"/>
-        <cleareableTetxBox:UserControl1 Grid.Row="2"/>
-        <cleareableTetxBox:UserControl1 Grid.Row="3"/>
-        <cleareableTetxBox:UserControl1 Grid.Row="5"/>
+        <cleareableTetxBox:UserControl1 Margin="10" Placeholder="User Name"/>
+        <cleareableTetxBox:UserControl1 Margin="10" Grid.Row="1" Placeholder="First Name"/>
+        <cleareableTetxBox:UserControl1 Margin="10" Grid.Row="2" Placeholder="Last Name"/>
+        <cleareableTetxBox:UserControl1 Margin="10" Grid.Row="3" Placeholder="Email"/>
+        <cleareableTetxBox:UserControl1 Margin="10" Grid.Row="5" Placeholder="Phone"/>
     </Grid>
 </Window>
